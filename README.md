@@ -9,6 +9,7 @@ Welcome to the Rock, Paper, Scissors game! This project demonstrates a simple im
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Example](#example)
 - [License](#license)
 
 ## Overview
