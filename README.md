@@ -8,8 +8,8 @@ Welcome to the Rock, Paper, Scissors game! This project demonstrates a simple im
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Example](#example)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
