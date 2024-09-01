@@ -42,7 +42,7 @@ To run the Rock, Paper, Scissors game on your local machine, follow these steps:
 
 3. **Open 'index.html' in Your Browser:**
 
-   Simply double-click the 'index.html' file, or open it using your preferred web browser.
+   Simply double-click the `index.html` file, or open it using your preferred web browser.
 
 ## Usage
 
