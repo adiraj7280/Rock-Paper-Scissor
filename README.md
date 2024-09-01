@@ -40,7 +40,7 @@ To run the Rock, Paper, Scissors game on your local machine, follow these steps:
 
    cd Rock-Paper-Scissor
 
-3. **Open 'index.html' in Your Browser:**
+3. **Open `index.html` in Your Browser:**
 
    Simply double-click the `index.html` file, or open it using your preferred web browser.
 
@@ -57,6 +57,12 @@ To run the Rock, Paper, Scissors game on your local machine, follow these steps:
 2. **View Scores:**
 
    -Your win, loss, and tie counts will be updated after each round and displayed on the screen.
+
+## Example
+
+Here is snapshot of the game window
+
+![Rock Paper Scissor Screenshot](Sample.png)
 
 ## Contributing
 
